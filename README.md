@@ -1,4 +1,4 @@
-# H1 Responses of Finland’s boreal forests to climate variables
+# Responses of Finland’s boreal forests to climate variables
 
 Here are the R codes used in Hou M, et al. (2020). Spatio-temporal divergence in the responses of Finland’s boreal forests to climate variables. International Journal of Applied Earth Observation and Geoinformation. 
 
