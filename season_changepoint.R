@@ -2,7 +2,6 @@ rm(list=ls())
 gc() 
 library(mixOmics)
 #packageDescription("mixOmics")["Version"]
-#remove.packages("mixOmics")
 
 #mydata <- read.xlsx("D:\\ppt_June\\s7501.xlsx", 1)
 
