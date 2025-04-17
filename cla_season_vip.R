@@ -1,14 +1,6 @@
 rm(list=ls())
 gc() 
 library(mixOmics)
-#packageDescription("mixOmics")["Version"]
-#remove.packages("mixOmics")
-
-#mydata <- read.xlsx("D:\\ppt_June\\s7501.xlsx", 1)
-
-# read in the worksheet named mysheet
-# mydata <- read.xlsx("D:\\ppt_June\\s7501.xlsx", sheetName = "Sheet1", 
-#                     header = TRUE,startRow=2)
 
 mydata <- read.table("D:\\ppt_June\\fin\\fi_ndvi_yearmax.txt")
 pre  = read.table("D:/griddata_fi/mon_hou/txt_pls_season/pre_season.txt",sep=" ",fill=FALSE, strip.white=TRUE,header = TRUE)
